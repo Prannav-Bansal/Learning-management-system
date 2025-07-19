@@ -1,6 +1,8 @@
+
+
 const app = require('./app');
-const { config } = require('dotenv');
-config();
+
+
 
 
 
